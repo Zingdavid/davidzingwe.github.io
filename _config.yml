@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "David Zingwe's homepage"
 title_separator          : "-"
-name                     : &name "David Eddings Zingwe"
+name                     : "David Eddings Zingwe"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://davidzingwe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "davidzingwe.github.io"
 
@@ -22,7 +22,7 @@ repository               : "davidzingwe.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "David Zingwe"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
