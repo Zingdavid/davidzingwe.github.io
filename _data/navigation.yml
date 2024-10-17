@@ -21,7 +21,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /files/David%20Eddings%20Zingwe%20Banda_CV.pdf
+    url: https://github.com/Zingdavid/davidzingwe.github.io/blob/master/files/David%20Eddings%20Zingwe%20Banda_CV.pdf
     
   - title: "Guide"
     url: /markdown/
